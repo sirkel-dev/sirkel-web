@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+img {
+    width: 50%;
+    float: left;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin-left: 60px;
+}
