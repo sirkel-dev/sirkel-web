@@ -4,7 +4,8 @@ body {
 
 img {
     width: 50%;
-    float: left;
+    /* text-align: center; */
+    /* margin: auto; */
 }
 
 h1 {
@@ -13,4 +14,8 @@ h1 {
 
 p {
     margin-left: 60px;
+}
+
+.header-image {
+    text-align: center;
 }
